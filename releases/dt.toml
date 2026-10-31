@@ -54,6 +54,12 @@ commits = ["95b98ffe10c41bd5c57386f252473ac7c4ae6e05"]
 at = 2026-10-31T13:38:17Z
 seq = 9
 
+[[approved]]
+task = "DT-WORKSPACE-TASK-0096"
+commits = ["708923ffee70ab5303b82c5bab8cdd45c78dcdf1"]
+at = 2026-10-31T13:38:25Z
+seq = 10
+
 [[release]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 member = "dt-workspace"
