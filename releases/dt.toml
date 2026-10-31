@@ -216,3 +216,11 @@ tag = "v0.15.0"
 tip = "e0dd7319ad45461a7f6aa646165f7c4bf90cb854"
 accepted = "Released"
 at = 2026-10-31T19:10:01Z
+
+[[release_closed]]
+key = "01M69TT4XA2YS49FNHQ0JJQF7X"
+outcome = "failed"
+tag = "v0.16.0"
+tip = "b2630c85b9472432a1ff7c47cdb93fedb58ec369"
+why = "its release does not pass the release check: cli/taskctl/Cargo.toml pins devtools-cli at v0.4.1, which is no signed release of it: ssh://git@github.com/malo-rte/dt-shared.git has no copy on this machine"
+at = 2026-10-31T20:37:54Z
