@@ -184,3 +184,11 @@ tag = "v0.14.3"
 tip = "cbe689ba3ac6d41462abf68a4448a45290c774c2"
 accepted = "Marked released late due to bugs"
 at = 2026-10-31T19:03:21Z
+
+[[release_closed]]
+key = "01M69955E1NJJKDM8V2RK3GP1H"
+outcome = "released"
+tag = "v0.14.3"
+tip = "cbe689ba3ac6d41462abf68a4448a45290c774c2"
+accepted = "Marked released late due to bugs"
+at = 2026-10-31T19:03:44Z
