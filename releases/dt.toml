@@ -158,6 +158,16 @@ moved = []
 removed = []
 at = 2026-10-31T18:51:18Z
 
+[[release]]
+key = "01M69TT4XA2YS49FNHQ0JJQF7X"
+member = "dt-workspace"
+main = "1d4ad994e2300d92bf98aeacc232c71821290e4f"
+approved = ["8e1f085263fb44d0bf659235df14ea1087b694a6"]
+revert = []
+moved = []
+removed = []
+at = 2026-10-31T20:35:55Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
