@@ -176,3 +176,11 @@ at = 2026-10-31T15:30:28Z
 key = "01M69MTK061GND5XHPMW8HAAT7"
 outcome = "failed"
 at = 2026-10-31T18:55:40Z
+
+[[release_closed]]
+key = "01M68PYRRCJJP519AJK7H2PW5B"
+outcome = "released"
+tag = "v0.14.3"
+tip = "cbe689ba3ac6d41462abf68a4448a45290c774c2"
+accepted = "Marked released late due to bugs"
+at = 2026-10-31T19:03:21Z
