@@ -171,3 +171,8 @@ at = 2026-10-31T13:40:29Z
 key = "01M69955E1NJJKDM8V2RK3GP1H"
 outcome = "failed"
 at = 2026-10-31T15:30:28Z
+
+[[release_closed]]
+key = "01M69MTK061GND5XHPMW8HAAT7"
+outcome = "failed"
+at = 2026-10-31T18:55:40Z
