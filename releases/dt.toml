@@ -57,3 +57,8 @@ revert = []
 moved = []
 removed = []
 at = 2026-10-31T10:04:41Z
+
+[[release_closed]]
+key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
+outcome = "refused"
+at = 2026-10-31T10:04:41Z
