@@ -511,6 +511,17 @@ moved = []
 removed = []
 at = 2026-11-02T13:02:52Z
 
+[[release]]
+key = "01M6E5Y0Y36HR5JMJ1PEWA32XP"
+member = "dt-desktop"
+main = "2718b9fca2e3ef3978fba35e97a88cc0b0a6ea19"
+approved = []
+revert = ["72d157428b917efd45dc89a72555763f972e6e84", "aecc96ece0174add215654fb27af760a15a4de88", "7998af528dd5e47a21e7ba04619f835b49bcab79", "5615c40039f777a3d9be82ed01d32d13a0f583c1"]
+untasked = ["ee4eaf5b57af2003e2dc97074d6ece364dd91ba3", "3187a3c9e0516afe0cac828e3e2c692f12c7deae", "394062fc4cfe9a5814d1fbbcc1637f84f7074341", "ae21d3e76bccda37269adc03364a37ea3bef1a02", "30ad0a4f6ce1fe04a17eb19b69e79485063445ad", "744874e46e0086a42f6229cbb97bd0dab1b79379", "24911e244ba6b1cf134add70f31c7decc0b9dfba"]
+moved = ["DT-DESKTOP-TASK-0204", "DT-DESKTOP-TASK-0203"]
+removed = []
+at = 2026-11-02T13:07:15Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
