@@ -598,3 +598,9 @@ outcome = "released"
 tag = "v0.2.0"
 tip = "05c1015fcb86f4269b5cff5ac14e0b64ef4b0c31"
 at = 2026-11-02T13:07:14Z
+
+[[release_closed]]
+key = "01M6E5Y0Y36HR5JMJ1PEWA32XP"
+outcome = "failed"
+why = "its member reported failed: The request reverts the four commits of DT-DESKTOP-TASK-0203, which is Done (746aa54); taskctl task next at 3bae1c2 offers that done task as ready, so the request may have been made from that error."
+at = 2026-11-02T13:10:31Z
