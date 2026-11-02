@@ -394,6 +394,12 @@ task = "DT-DESKTOP-TASK-0203"
 at = 2026-11-02T11:49:50Z
 seq = 60
 
+[[assigned]]
+commit = "c4bccd2f6f64a930927c35ed684c67e9788ecf25"
+task = "DT-ARKIV-TASK-0002"
+at = 2026-11-02T12:57:39Z
+seq = 67
+
 [[release]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 member = "dt-workspace"
