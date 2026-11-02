@@ -453,6 +453,17 @@ moved = []
 removed = []
 at = 2026-11-02T12:08:47Z
 
+[[release]]
+key = "01M6E2JZJ8ARFAJ0M1T7N4PQG6"
+member = "dt-arkiv"
+main = "62f7fccdd8c1594f2e939f7190157a9138b4007e"
+approved = ["5cb4d0fb0b0559f407eba874dd359aa5b81d062f", "c18a6f5f1674dcd8da1625da452d30f901e26692", "1f5aaebb46d476ed20a8371c07204e35b70ae387", "6bdb844de85af8d9dc24fffc1d2044f4972b5834", "fd7c9ebb546c1260cc00229371363195903f5c4c"]
+revert = []
+untasked = ["dcc386de898446be9651a7c696a563184d692155", "6cc34434906a675e4900d650bbdc2f4252aae4cc"]
+moved = []
+removed = []
+at = 2026-11-02T12:08:47Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
