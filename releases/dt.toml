@@ -552,6 +552,16 @@ moved = ["DT-DESKTOP-TASK-0204", "DT-DESKTOP-TASK-0203"]
 removed = []
 at = 2026-11-02T13:07:15Z
 
+[[release]]
+key = "01M6ECABZ6RNMD067849WVB5F4"
+member = "dt-workspace"
+main = "dce321af80bc655af7688ce85c10cf4ec5fae051"
+approved = ["97958a82c268b38d8bb7f9f209f3e69956c62c10", "69f996d1078af6c3b71ef5bfa61061a835ac2ec7", "5c190552b53cea04740af209e571b130ecb8caf3", "ade6352d39f8dc0690b9a6a7604d50178cc979f7", "8608775d4f67f13fab67b8665a774f0ff308d2ff"]
+revert = []
+moved = []
+removed = []
+at = 2026-11-02T14:58:50Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
