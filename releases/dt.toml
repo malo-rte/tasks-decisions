@@ -359,6 +359,11 @@ task = "DT-DESKTOP-TASK-0204"
 at = 2026-11-02T10:13:28Z
 seq = 57
 
+[[later]]
+task = "DT-DESKTOP-TASK-0203"
+at = 2026-11-02T11:52:27Z
+seq = 64
+
 [[assigned]]
 commit = "aecc96ece0174add215654fb27af760a15a4de88"
 task = "DT-DESKTOP-TASK-0203"
