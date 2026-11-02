@@ -336,6 +336,11 @@ commits = ["00d50df2edc142509e962625677afbc0aa78f968"]
 at = 2026-11-02T10:11:54Z
 seq = 56
 
+[[later]]
+task = "DT-DESKTOP-TASK-0204"
+at = 2026-11-02T10:13:28Z
+seq = 57
+
 [[release]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 member = "dt-workspace"
