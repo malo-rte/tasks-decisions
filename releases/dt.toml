@@ -662,3 +662,8 @@ outcome = "released"
 tag = "v0.18.0"
 tip = "3f0ad985742cdfb95104886b71e2d3a2ca83da99"
 at = 2026-11-02T15:02:04Z
+
+[[release_closed]]
+key = "01M6ECG8MQMV6KSNZRZX0X5WPC"
+outcome = "reverted"
+at = 2026-11-02T15:02:41Z
