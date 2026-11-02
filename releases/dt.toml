@@ -580,3 +580,10 @@ key = "01M6E2JZJ8ARFAJ0M1T7N4PQG6"
 outcome = "failed"
 why = "its member reported failed: release-request: prepare: CHANGELOG.md has no [Unreleased] section with the entries of DT-ARKIV-TASK-0108, and .claude/skill-config/release/config.toml does not exist, so verify names no full test run. Nothing was changed or pushed."
 at = 2026-11-02T12:14:54Z
+
+[[release_closed]]
+key = "01M6E5P0V1RQZHSJNYVDFXZDMN"
+outcome = "released"
+tag = "v0.2.0"
+tip = "05c1015fcb86f4269b5cff5ac14e0b64ef4b0c31"
+at = 2026-11-02T13:07:14Z
