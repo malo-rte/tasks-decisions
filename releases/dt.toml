@@ -1342,3 +1342,11 @@ key = "01M6GS7WC4FBDTZ4AC9QQ2MVDH"
 outcome = "failed"
 why = "its member reported failed: The revert of b08cf8c conflicts in 10 files with later approved work, so prepare would stop at step 1. The phase 1 commits of DT-SHARED-TASK-0200 (e0b405e, 2935a9f, 65de3d3, 74e9573, b08cf8c) lack Refs trailers and belong under assigned to DT-SHARED-TASK-0200. 24991bb and b82765c need to be admitted as untasked. The commits of DT-SHARED-TASK-0243 (740ed21, 336b4dc) are the base of 0201 and 0202 and cannot be reverted. Nothing was run; next and main are unchanged."
 at = 2026-11-03T20:01:26Z
+
+[[release_closed]]
+key = "01M6HH3XFMWKYH9E52MHRCAME5"
+outcome = "failed"
+tag = "v0.10.0"
+tip = "19ec9cc4fc7aeee52e8c1d4261d08593f65f239a"
+why = "its release does not pass the release check: 19ec9cc4fc7a: main's tip is not the commit of v0.10.0"
+at = 2026-11-03T20:26:52Z
