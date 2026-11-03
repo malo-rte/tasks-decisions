@@ -1218,3 +1218,8 @@ key = "01M6GYY02WAD0BBJRFXWSJ7JX9"
 outcome = "failed"
 why = """its member reported failed: verify: python3 tools/check-installs.py exited 1. The full test runs of dt-arkiv, dt-desktop and dt-workspace failed in their clones with the candidate installed; dt-secrets and dt-shared passed. The candidate's pack files equal 185c199, which all five members already hold, so these are the members' own failures: dt-arkiv's arkivd start test; dt-desktop's 8 checks, most because dt-shared is not checked out beside its clone; dt-workspace's "rename: one grammar", which looks for dt-shared's removed lib/devtools-rename. skills needs a decision on whether check-installs should block skills' release on them."""
 at = 2026-11-03T15:36:28Z
+
+[[release_closed]]
+key = "01M6H3V9DRXFX96CBXP8GK5XPG"
+outcome = "withdrawn"
+at = 2026-11-03T16:36:47Z
