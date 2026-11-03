@@ -1389,3 +1389,11 @@ key = "01M6HH3XE2GMB5KAVKVCMPA87J"
 outcome = "failed"
 why = """its member reported failed: release commit: the staged CHANGELOG.md dates no new version. release-request's versions() reads the old version from the first released section of HEAD's CHANGELOG.md, and skills' first release has none, so it fails although the staged changelog dates 0.1.0 and VERSION goes from 0.0.0 to 0.1.0. The script prints "fix on main", but the fix is in the release skill's script, a commit on next; nothing was committed or pushed. check-installs.py was stopped at the developer's word; run-tests, check-style and check-components passed."""
 at = 2026-11-03T20:47:29Z
+
+[[release_closed]]
+key = "01M6HSSN416CWZBBMBH9NBWSRP"
+outcome = "failed"
+tag = "v0.1.0"
+tip = "390cbf94969e5619456e653fbb24b93ec2c58a6b"
+why = "its release does not pass the release check: 390cbf94969e: main's tip is not the commit of v0.1.0"
+at = 2026-11-03T22:53:37Z
