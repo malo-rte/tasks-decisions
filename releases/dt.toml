@@ -1021,6 +1021,12 @@ task = "DT-SHARED-TASK-0243"
 at = 2026-11-03T20:06:28Z
 seq = 170
 
+[[assigned]]
+commit = "24991bb3bd6ecbddf28c5446a38e805ed6b20025"
+task = "DT-SHARED-TASK-0200"
+at = 2026-11-03T20:12:21Z
+seq = 172
+
 [[release]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 member = "dt-workspace"
