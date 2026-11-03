@@ -1154,3 +1154,9 @@ at = 2026-11-02T15:02:04Z
 key = "01M6ECG8MQMV6KSNZRZX0X5WPC"
 outcome = "reverted"
 at = 2026-11-02T15:02:41Z
+
+[[release_closed]]
+key = "01M6GS7W94WCC8KHTQJM4M1K6S"
+outcome = "failed"
+why = "its member reported failed: revert: git revert --no-edit e25516865790be3535ca22d2f0ecc5cb25407b4b conflicts in .claude/skills/user-manual/scripts/cli_convention.py. SKILLS-TASK-0054's unit_manifests (e255168) is built on by the approved SKILLS-TASK-0056 (21088ec), so 0054 cannot be reverted alone. Approve SKILLS-TASK-0054 with the release, or also move 0056 and the tasks after it."
+at = 2026-11-03T13:23:46Z
