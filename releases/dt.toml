@@ -1189,3 +1189,9 @@ key = "01M6GS7W94WCC8KHTQJM4M1K6S"
 outcome = "failed"
 why = "its member reported failed: revert: git revert --no-edit e25516865790be3535ca22d2f0ecc5cb25407b4b conflicts in .claude/skills/user-manual/scripts/cli_convention.py. SKILLS-TASK-0054's unit_manifests (e255168) is built on by the approved SKILLS-TASK-0056 (21088ec), so 0054 cannot be reverted alone. Approve SKILLS-TASK-0054 with the release, or also move 0056 and the tasks after it."
 at = 2026-11-03T13:23:46Z
+
+[[release_closed]]
+key = "01M6GYY02WAD0BBJRFXWSJ7JX9"
+outcome = "failed"
+why = """its member reported failed: verify: python3 tools/check-installs.py exited 1. The full test runs of dt-arkiv, dt-desktop and dt-workspace failed in their clones with the candidate installed; dt-secrets and dt-shared passed. The candidate's pack files equal 185c199, which all five members already hold, so these are the members' own failures: dt-arkiv's arkivd start test; dt-desktop's 8 checks, most because dt-shared is not checked out beside its clone; dt-workspace's "rename: one grammar", which looks for dt-shared's removed lib/devtools-rename. skills needs a decision on whether check-installs should block skills' release on them."""
+at = 2026-11-03T15:36:28Z
