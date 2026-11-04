@@ -1405,3 +1405,11 @@ tag = "v0.10.0"
 tip = "276fd94ac0e07b915bdc094cd8f6944084793f85"
 accepted = "v0.10.0 is signed on 276fd94, the release commit; main carries one more commit, 19ec9cc, the reopen of Unreleased, which belongs on next"
 at = 2026-11-04T00:32:21Z
+
+[[release_closed]]
+key = "01M6HSSN416CWZBBMBH9NBWSRP"
+outcome = "released"
+tag = "v0.1.0"
+tip = "d6e21448f79804eab5cbe167e731a2144318266b"
+accepted = "v0.1.0 is signed on d6e2144, which is main's tip again; the check saw the reopen commit 390cbf9 on main"
+at = 2026-11-04T00:32:41Z
