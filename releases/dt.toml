@@ -1397,3 +1397,11 @@ tag = "v0.1.0"
 tip = "390cbf94969e5619456e653fbb24b93ec2c58a6b"
 why = "its release does not pass the release check: 390cbf94969e: main's tip is not the commit of v0.1.0"
 at = 2026-11-03T22:53:37Z
+
+[[release_closed]]
+key = "01M6HH3XFMWKYH9E52MHRCAME5"
+outcome = "released"
+tag = "v0.10.0"
+tip = "276fd94ac0e07b915bdc094cd8f6944084793f85"
+accepted = "v0.10.0 is signed on 276fd94, the release commit; main carries one more commit, 19ec9cc, the reopen of Unreleased, which belongs on next"
+at = 2026-11-04T00:32:21Z
