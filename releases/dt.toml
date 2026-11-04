@@ -1413,3 +1413,8 @@ tag = "v0.1.0"
 tip = "d6e21448f79804eab5cbe167e731a2144318266b"
 accepted = "v0.1.0 is signed on d6e2144, which is main's tip again; the check saw the reopen commit 390cbf9 on main"
 at = 2026-11-04T00:32:41Z
+
+[[release_closed]]
+key = "01M6HSSN5FJ5ENE32T7P6DWNBQ"
+outcome = "reverted"
+at = 2026-11-04T00:43:51Z
