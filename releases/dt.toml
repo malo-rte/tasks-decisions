@@ -1451,3 +1451,10 @@ at = 2026-11-04T00:32:41Z
 key = "01M6HSSN5FJ5ENE32T7P6DWNBQ"
 outcome = "reverted"
 at = 2026-11-04T00:43:51Z
+
+[[release_closed]]
+key = "01M6J128Y0RNQHD8R111RPDFGR"
+outcome = "released"
+tag = "v0.1.1"
+tip = "5d22ec81fa567c169b416ca05a29992c68109569"
+at = 2026-11-04T01:00:20Z
