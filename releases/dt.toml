@@ -1561,6 +1561,17 @@ moved = ["SKILLS-TASK-0052", "SKILLS-TASK-0070", "SKILLS-TASK-0071"]
 removed = []
 at = 2026-11-05T01:20:04Z
 
+[[release]]
+key = "01M6MN28AF1HRP9M9SAFQ3J2AV"
+member = "skills"
+main = "83681ec9ea4a32f00d2a341dfc631d0e9bb49b1c"
+approved = ["11d0eb63e15b7c43ecf67cf314a0a82faac2abda", "50faa4878bb8352746abe03ec326eb3b12f2dae9", "83941bc2bbaad45867414e03e495c825186be131", "9fff793e025e1835329020fe8f47aa8e1736cdd7", "368cba08d9264e6f8d2efcbacf4d79ef2675ea44"]
+revert = []
+untasked = ["734a40e57a46a1b461e634e00a8f8a1e5c234924"]
+moved = ["SKILLS-TASK-0052", "SKILLS-TASK-0071"]
+removed = []
+at = 2026-11-05T01:27:08Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
