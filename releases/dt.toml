@@ -1736,3 +1736,9 @@ outcome = "released"
 tag = "v0.2.0"
 tip = "83681ec9ea4a32f00d2a341dfc631d0e9bb49b1c"
 at = 2026-11-04T22:42:41Z
+
+[[release_closed]]
+key = "01M6MMN9JRN3SFS5J7QYJ0WZ7V"
+outcome = "failed"
+why = "its member reported failed: revert (fix on next): git revert of 368cba0 conflicts in CHANGELOG.md, because the entries of SKILLS-TASK-0075 and SKILLS-TASK-0074 sit right below the mull entry that 368cba0 added. Nothing was pushed; next and main are as before. The fix is a commit on next that takes the mull entry, which 0.2.1 does not ship, out of the Unreleased section, so the revert is clean."
+at = 2026-11-05T01:21:01Z
