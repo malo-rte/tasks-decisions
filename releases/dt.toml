@@ -1759,3 +1759,10 @@ key = "01M6MMN9JRN3SFS5J7QYJ0WZ7V"
 outcome = "failed"
 why = "its member reported failed: revert (fix on next): git revert of 368cba0 conflicts in CHANGELOG.md, because the entries of SKILLS-TASK-0075 and SKILLS-TASK-0074 sit right below the mull entry that 368cba0 added. Nothing was pushed; next and main are as before. The fix is a commit on next that takes the mull entry, which 0.2.1 does not ship, out of the Unreleased section, so the revert is clean."
 at = 2026-11-05T01:21:01Z
+
+[[release_closed]]
+key = "01M6MN28AF1HRP9M9SAFQ3J2AV"
+outcome = "released"
+tag = "v0.2.1"
+tip = "d5af3701cd7999fffbc8cc341cb3b27a2ad437ae"
+at = 2026-11-05T01:28:37Z
