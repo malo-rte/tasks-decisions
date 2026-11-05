@@ -1597,6 +1597,12 @@ commits = ["4486d88e746b003bb7e4e9e1d1e5ac8d1604ef2c"]
 at = 2026-11-05T16:09:34Z
 seq = 297
 
+[[approved]]
+task = "DT-SHARED-TASK-0320"
+commits = ["2600aa02194fb419739be0bdbb2e55f82fa85e7a"]
+at = 2026-11-05T16:09:36Z
+seq = 298
+
 [[later]]
 task = "DT-DESKTOP-TASK-0204"
 at = 2026-11-02T10:13:28Z
