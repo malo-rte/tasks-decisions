@@ -2099,6 +2099,17 @@ moved = []
 removed = []
 at = 2026-11-05T11:10:27Z
 
+[[release]]
+key = "01M6PBY843WMRE2FZACGEGGPVF"
+member = "skills"
+main = "836e34495c40c40224abf88a9e5a31ba3b15effc"
+approved = ["551662a30e209aa6fd4f4039e62c9691aebd1486"]
+revert = []
+untasked = ["1528d9d6a93bb186c35d00c7d9922323fae9fd23"]
+moved = []
+removed = []
+at = 2026-11-05T17:26:09Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
