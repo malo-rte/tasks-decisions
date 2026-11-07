@@ -2610,3 +2610,10 @@ key = "01M6STRCF1T9GCQVQ3TQDD2C2Z"
 outcome = "failed"
 why = "its member reported failed: check next (fix on next): commits of no approved task: 7a372f23374916a15bd5d9c6783594684f8ab31d 8299e3fa37401070acbffae36aa247dd3fff968d 807bc75d431629b9e57729069882b3af21d909e2 637beafcf396602056c161798c1ac9604b4321ac. They are two pairs of a commit and its revert (637beaf reverted by 7a372f2, 807bc75 reverted by 8299e3f), which together change nothing. The review listed only 26027c9 as untasked, so it seems to leave such pairs out, while step 1 of release-request does not."
 at = 2026-11-07T01:44:21Z
+
+[[release_closed]]
+key = "01M6SWFP3RH49XFN9XJJPRCBJ3"
+outcome = "released"
+tag = "v0.6.1"
+tip = "9f5bd4dc8b64bc5b59609225b6a70c1be01f1ca1"
+at = 2026-11-07T02:15:06Z
