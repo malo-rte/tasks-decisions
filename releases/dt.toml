@@ -3239,3 +3239,10 @@ outcome = "released"
 tag = "v0.13.0"
 tip = "71dfc8beb66066be288126482caa1735d9ef9be0"
 at = 2026-11-09T22:38:19Z
+
+[[release_closed]]
+key = "01M7217503ERW8DRCTSK0VE67A"
+outcome = "released"
+tag = "v0.14.0"
+tip = "7895a69382d805f215faa662051d98529f43571d"
+at = 2026-11-10T06:17:11Z
