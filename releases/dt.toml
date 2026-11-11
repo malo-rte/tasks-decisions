@@ -3354,6 +3354,17 @@ moved = ["DT-WORKSPACE-TASK-0196", "DT-WORKSPACE-TASK-0205", "DT-WORKSPACE-TASK-
 removed = []
 at = 2026-11-11T04:26:54Z
 
+[[release]]
+key = "01M75KTXVWM0QSX35HDKW5X0GZ"
+member = "skills"
+main = "5307bcd330f8a821bb960c732f2fc77c10a27016"
+approved = ["1a1c28d8ecad2b3b4f3f3c3b52d31d155465aba5", "3ad5eb4bfbcfe472b83ff109ec8c1e68cf0c4b7b", "6472b68d1bc79655189bbb7d0e5d26cba35957d1", "92060c4caf756afedeebf559be41e8987baba1ef"]
+revert = []
+untasked = ["06f61b9093e17ef706bf86d2205131c3747724ca"]
+moved = []
+removed = []
+at = 2026-11-11T15:32:45Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
