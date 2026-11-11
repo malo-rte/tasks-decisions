@@ -3338,9 +3338,6 @@ moved = ["DT-WORKSPACE-TASK-0196", "DT-WORKSPACE-TASK-0205", "DT-WORKSPACE-TASK-
 removed = []
 at = 2026-11-10T22:14:24Z
 
-[[release.adopt]]
-dependency = "skills"
-tag = "v0.7.0"
 
 [[release]]
 key = "01M74DQQHN8497J36E7RYRB5XJ"
@@ -3375,10 +3372,6 @@ untasked = ["594ecf241e632ee68e7914d4af874b9a4dfc7582"]
 moved = ["DT-WORKSPACE-TASK-0196", "DT-WORKSPACE-TASK-0205", "DT-WORKSPACE-TASK-0191", "DT-WORKSPACE-TASK-0225", "DT-WORKSPACE-TASK-0267", "DT-WORKSPACE-TASK-0265", "DT-WORKSPACE-TASK-0266", "DT-WORKSPACE-TASK-0181"]
 removed = []
 at = 2026-11-11T15:34:15Z
-
-[[release.adopt]]
-dependency = "skills"
-tag = "v0.8.0"
 
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
