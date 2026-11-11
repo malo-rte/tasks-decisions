@@ -3365,6 +3365,21 @@ moved = []
 removed = []
 at = 2026-11-11T15:32:45Z
 
+[[release]]
+key = "01M75KXNDCGJCKR9BEHD18BQNE"
+member = "dt-workspace"
+main = "642026fadc5251f280f1102ab1571ce0788d4778"
+approved = ["b33c40ff0fba4fecdd48aee28736a0b2da436266", "28520b43ca948c1df12cdd4ca3ab8282efb1888a", "8ec4e3d8ec6999a59091195a090d1bdc596bcdc9", "7ea4c45483fe994f86e0b07004ab64f8c9e7d2f5", "4f47167604ba353a583b20857eae97438babcdcb", "bde582fa49bf442a03147f390c69281886c296a3", "d703fbaca90dad99ca493fdbe0a0c35c2773e274", "ea8917d9493ec63347e3c87d1499ce8e9494361a", "9e641516cfc13522547275645b43127328fa04df"]
+revert = []
+untasked = ["594ecf241e632ee68e7914d4af874b9a4dfc7582"]
+moved = ["DT-WORKSPACE-TASK-0196", "DT-WORKSPACE-TASK-0205", "DT-WORKSPACE-TASK-0191", "DT-WORKSPACE-TASK-0225", "DT-WORKSPACE-TASK-0267", "DT-WORKSPACE-TASK-0265", "DT-WORKSPACE-TASK-0266", "DT-WORKSPACE-TASK-0181"]
+removed = []
+at = 2026-11-11T15:34:15Z
+
+[[release.adopt]]
+dependency = "skills"
+tag = "v0.8.0"
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
