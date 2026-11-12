@@ -4027,3 +4027,10 @@ key = "01M7842WN0T98S3K4AY1ZTSBM0"
 outcome = "failed"
 why = "its member reported failed: verify (fix on next): ./run-all-checks.sh exited 1: rust: test failed on taskctl's req_tm_081_in_a_container_only_the_own_task_repository_is_written, after step 2 reverted eed7a1d (DT-WORKSPACE-TASK-0273, Keep taskctl's tests off the machine's workspace daemon), which the release did not choose. Choose DT-WORKSPACE-TASK-0273 and approve it, then send the request again. Nothing was pushed."
 at = 2026-11-12T14:58:38Z
+
+[[release_closed]]
+key = "01M784ET16PDY5W6J4EM5PBSNS"
+outcome = "released"
+tag = "v0.23.0"
+tip = "949595f03e092a586ad14b6fc6f91c9706af08d7"
+at = 2026-11-12T15:04:59Z
