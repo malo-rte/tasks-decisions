@@ -4153,3 +4153,11 @@ outcome = "released"
 tag = "v0.23.0"
 tip = "949595f03e092a586ad14b6fc6f91c9706af08d7"
 at = 2026-11-12T15:04:59Z
+
+[[release_closed]]
+key = "01M7BXPE4FYQA2B8T88H9F6R9Y"
+outcome = "failed"
+tag = "v0.24.0"
+tip = "c27014ac4fbbebbaf79934d5f489e375dda8c52e"
+why = "its release does not pass the release check: c27014ac4fbb: a commit follows the merge of next into main: main changes only by a clean merge of next, and the release commit goes on next before it"
+at = 2026-11-14T02:24:25Z
