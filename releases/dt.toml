@@ -3408,6 +3408,11 @@ task = "DT-WORKSPACE-TASK-0268"
 at = 2026-11-15T22:56:42Z
 seq = 596
 
+[[later]]
+task = "DT-WORKSPACE-TASK-0288"
+at = 2026-11-15T22:57:23Z
+seq = 597
+
 [[unqueued]]
 task = "SKILLS-TASK-0108"
 at = 2026-11-15T04:43:05Z
