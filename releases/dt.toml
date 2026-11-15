@@ -4238,3 +4238,11 @@ tag = "v0.24.1"
 tip = "1b25b2a0af3c93367a4c3206fd8bac7372e9d6b9"
 why = "its release does not pass the release check: 1b25b2a0af3c: a commit follows the merge of next into main: main changes only by a clean merge of next, and the release commit goes on next before it"
 at = 2026-11-15T02:53:44Z
+
+[[release_closed]]
+key = "01M7ER9SZR0CE41YZZYG7YHJGN"
+outcome = "released"
+tag = "v0.9.0"
+tip = "64f732b6c06d81fde1f0e75cb72b70f123cf8463"
+tell = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
+at = 2026-11-15T04:45:50Z
