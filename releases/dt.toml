@@ -4856,6 +4856,12 @@ tip = "350199ac05345f01414f2bd11bd0edc88c584d80"
 tell = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
 at = 2026-11-15T23:14:42Z
 
+[[release_closed]]
+key = "01M7HRH5CC3A67S06ZX7CNK9XT"
+outcome = "failed"
+why = "its member reported failed: step 2: the developer stopped the reverts in the session. The request reverts 943887f (SKILLS-TASK-0123) and 4c808e4 (SKILLS-TASK-0122), which the developer keeps; the revert of 4c808e4 also conflicted in CHANGELOG.md. I undid the revert of 943887f and stopped the revert of 4c808e4, so next is back at 86bfa6c, as on origin. Nothing was pushed. Please choose SKILLS-TASK-0122 and SKILLS-TASK-0123 for dt and send a request that approves them with SKILLS-TASK-0121."
+at = 2026-11-16T08:47:22Z
+
 [[release_told]]
 key = "01M7ER9SZR0CE41YZZYG7YHJGN"
 to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
