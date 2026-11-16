@@ -5356,6 +5356,14 @@ outcome = "failed"
 why = """its member reported failed: step 2: git revert --no-edit da86fbcede9d3bbe328572dde42eed2e31727e07 (DT-WORKSPACE-TASK-0268, "Record the owner's response to THR-031") conflicts in docs/threat-models/DT-WORKSPACE-TM-0001-workspace-daemon/DT-WORKSPACE-TM-0001-workspace-daemon.adoc: later approved commits changed the same lines, the version and revision history (0.25 for THR-033, 0.26 for the clipboard control of DT-WORKSPACE-TASK-0343) and the review record. The revert was aborted; next and main are as they were, and nothing was pushed."""
 at = 2026-11-16T22:57:04Z
 
+[[release_closed]]
+key = "01M7K95T3XXY4E18T0T3M92J8J"
+outcome = "released"
+tag = "v0.12.0"
+tip = "aa04d21c82bbabc787fb31f591cca41b3d1d54b1"
+tell = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
+at = 2026-11-16T22:58:04Z
+
 [[release_told]]
 key = "01M7ER9SZR0CE41YZZYG7YHJGN"
 to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
