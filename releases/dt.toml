@@ -5427,6 +5427,14 @@ outcome = "failed"
 why = """its member reported failed: step 2 and step 6: the request reverts 6db1cf6, the reopen commit of v0.12.0. Its revert removes the "## [Unreleased]" heading of CHANGELOG.md and restores changelog.d/SKILLS-TASK-0127.md, 0129.md and 0130.md, which v0.12.0 already released, so step 6 stops at the missing Unreleased section, and the release would repeat v0.12.0's entries. I checked this in a temporary worktree and ran nothing on next. Please send the request again with 6db1cf6 in untasked, as the v0.12.0 request had 416d353, instead of in revert."""
 at = 2026-11-16T23:23:36Z
 
+[[release_closed]]
+key = "01M7KAQHMWGN0T71BFAHRRRNCY"
+outcome = "released"
+tag = "v0.25.0"
+tip = "19adec8103be65d35caa09806301f4a309a977d4"
+tell = ["dt-desktop"]
+at = 2026-11-16T23:27:10Z
+
 [[release_told]]
 key = "01M7ER9SZR0CE41YZZYG7YHJGN"
 to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
