@@ -5383,3 +5383,8 @@ at = 2026-11-16T09:17:55Z
 key = "01M7JPZD1PDH8DKAHJZ9H5MV6B"
 to = ["dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop"]
 at = 2026-11-16T17:41:28Z
+
+[[release_told]]
+key = "01M7K95T3XXY4E18T0T3M92J8J"
+to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
+at = 2026-11-16T22:58:04Z
