@@ -3979,6 +3979,12 @@ commits = ["2a4be5c2dd9f1d4a35964243df38d4ad2fe5cd94"]
 at = 2026-11-17T09:55:42Z
 seq = 752
 
+[[approved]]
+task = "DT-ARKIV-TASK-0117"
+commits = ["eda3bc59fc06a7bfa9f543cc2f94e5984032f93e"]
+at = 2026-11-17T09:55:48Z
+seq = 753
+
 [[later]]
 task = "DT-DESKTOP-TASK-0204"
 at = 2026-11-02T10:13:28Z
