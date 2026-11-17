@@ -4003,6 +4003,12 @@ commits = ["4c042d40a3001567b755192d8e50699dc76b8c90"]
 at = 2026-11-17T09:56:02Z
 seq = 756
 
+[[approved]]
+task = "DT-EMBEDDED-TASK-0022"
+commits = ["2ff641df038a51d1fb526f645ef7b58462aaf134", "a12f5f592046224bf2f26376fa7349fef64ab9ff", "c9571fb276af8869ae7db79de295768ffee85f90"]
+at = 2026-11-17T09:56:08Z
+seq = 757
+
 [[later]]
 task = "DT-DESKTOP-TASK-0204"
 at = 2026-11-02T10:13:28Z
