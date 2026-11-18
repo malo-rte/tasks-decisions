@@ -5425,6 +5425,17 @@ moved = []
 removed = []
 at = 2026-11-18T19:29:08Z
 
+[[release]]
+key = "01M7R24SDSBF6XTCDD9SXH76YT"
+member = "dt-shared"
+main = "02bb51f271141504731f0fbd7e447a7476b156a8"
+approved = ["e4d5b91b38733b94d1663401e24295016418e5b6", "df008e2c110e4ca1fd76b9bcde417300d9699e51", "b5101525be2d4956c3cffd69799e1f8fc073ab23", "b9bdbdd5d57798242032d0e83a7f0e8aac75b527", "76c32a5edc4ed0bf2547cdb92275fe4de348f5dc"]
+revert = []
+untasked = ["8b49715e53f928d879698e2354b70aabdcb01d9a"]
+moved = []
+removed = []
+at = 2026-11-18T19:29:08Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
