@@ -5279,6 +5279,17 @@ moved = ["DT-WORKSPACE-TASK-0286", "DT-WORKSPACE-TASK-0338", "DT-WORKSPACE-TASK-
 removed = []
 at = 2026-11-16T23:22:59Z
 
+[[release]]
+key = "01M7QKW4YN2GRB50SWCA25PEEY"
+member = "skills"
+main = "aa04d21c82bbabc787fb31f591cca41b3d1d54b1"
+approved = ["9e3853e562114826d74b711dc5afee3674aef7b3", "83a0217a0ff0f0d68f217da35e9cfe00e6350e51", "b4dc7ac0115b0d9d7e1da87ffdf2bbc14ef7de89", "f54e4972875da3972ce6259ff4f896cda0b83796", "d37ff2765aa1b064fb493a007bce1917842d0648", "f2d1835a2ed45ebc4dc51cf3a72827b95f0d1db0", "aeb8a5b59d4cdec87f065baf26b3ce41ec992e69", "419c97a404a478e046d4aeed7e13e6b401ff110b", "00e3db5bb02c4bd560710b0f9bdfae0072ca8090", "8c3c564a0cc52a05a1cd54987229c518f3a70d13", "c1fac49331ed07acfe44e502ed8eb2579e6efeaf", "28d9864e045961e87154c0be0f8111dfc80769b1"]
+revert = []
+untasked = ["6db1cf666066cd100ef9286009e371f70fd986da"]
+moved = []
+removed = []
+at = 2026-11-18T15:19:45Z
+
 [[release_closed]]
 key = "01M68PP9QXF9ZHQ990RJ7HHGN5"
 outcome = "refused"
