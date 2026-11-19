@@ -5947,6 +5947,14 @@ outcome = "failed"
 why = "its member reported failed: The developer stopped the release at step 7, during the full test run of verify, to adopt the skills pack v0.16.0 on next first, in DT-SHARED-TASK-0423. Nothing was committed or pushed: release-request restore-main reset main to 02bb51f and next to b9bdbdd, as on origin. Send the request again after the adoption is on next and approved."
 at = 2026-11-18T19:33:51Z
 
+[[release_closed]]
+key = "01M7RKRWY1H1KVYTGQPERK8DNH"
+outcome = "released"
+tag = "v0.17.0"
+tip = "ed0f0f6aad0dce7a7d7a69a7d1d22d343e85b521"
+tell = ["dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop"]
+at = 2026-11-19T00:40:37Z
+
 [[release_told]]
 key = "01M7ER9SZR0CE41YZZYG7YHJGN"
 to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
