@@ -4495,6 +4495,12 @@ commits = ["a4c3ca9ac912be6ce2344dbd36dc642d9a265745"]
 at = 2026-11-19T23:23:04Z
 seq = 838
 
+[[approved]]
+task = "DT-WORKSPACE-TASK-0366"
+commits = ["09917b54f2444028dc5553c8abd3cd4051f6deae", "4321c196847ee1e45ca9fdcc457ed1a6db070485"]
+at = 2026-11-19T23:23:08Z
+seq = 839
+
 [[later]]
 task = "DT-DESKTOP-TASK-0204"
 at = 2026-11-02T10:13:28Z
