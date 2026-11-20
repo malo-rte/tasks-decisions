@@ -6177,6 +6177,14 @@ tip = "d73d221a72f7eeb7a456b8584cb92a9d848e0e1c"
 tell = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
 at = 2026-11-19T23:43:25Z
 
+[[release_closed]]
+key = "01M7V3X5146JFFAWX8E7QHKWCS"
+outcome = "released"
+tag = "v0.18.0"
+tip = "14adfcfce71c5a83935bb629be00fc3d6a729bef"
+tell = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
+at = 2026-11-20T00:00:27Z
+
 [[release_told]]
 key = "01M7ER9SZR0CE41YZZYG7YHJGN"
 to = ["dt-office", "dt-shared", "dt-workspace", "dt-secrets", "dt-arkiv", "dt-desktop", "dt-embedded"]
